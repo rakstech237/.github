@@ -139,7 +139,7 @@ Nous sommes toujours ouverts aux opportunités :
 
 ## 📬 Contact & Support
 
-📧 **Email :** [josue.k@rakstechnology.com](mailto:josue.k@rakstechnology.com)
+📧 **Email :** [shaidmasad10@gmail.com](mailto:shaidmasad10gmail.com)
 
 ---
 
