@@ -23,7 +23,7 @@ Nous concevons des **écosystèmes digitaux simples, accessibles et puissants** 
 
 ---
 
-## 🧠 Qui sommes-nous ?
+##  Qui sommes-nous ?
 
 **RAK's Technology** est une startup technologique de type **SaaS Builder**.
 
@@ -35,40 +35,40 @@ Contrairement aux agences classiques :
 
 ---
 
-## ⚙️ Nos Offres
+## Nos Offres
 
-### 💻 1. Offre Logicielle (SaaS)
+###  1. Offre Logicielle (SaaS)
 
-> 🔥 **Cœur de notre activité**
+>  **Cœur de notre activité**
 
 Le modèle **SaaS (Software as a Service)** permet à nos clients d’utiliser nos solutions directement via Internet.
 
-* **✅ Avantages :**
-  - ☁️ Accès cloud (partout, tout le temps)
-  - 🔄 Mises à jour continues
-  - 🔐 Sécurité & sauvegardes
-  - ⚡ Zéro installation
-  - 🎧 Support inclus
-* **💰 Modèle économique :** Abonnement mensuel, annuel, ou commission sur les transactions.
+* ** Avantages :**
+  -  Accès cloud (partout, tout le temps)
+  -  Mises à jour continues
+  -  Sécurité & sauvegardes
+  -  Zéro installation
+  -  Support inclus
+* ** Modèle économique :** Abonnement mensuel, annuel, ou commission sur les transactions.
 
-### 🎓 2. Offre de Formation
+###  2. Offre de Formation
 
 Nous proposons une plateforme dédiée à l'apprentissage et la montée en compétences :
 
-- 📚 Diffusion de formations de haute qualité.
-- 🤝 Collaboration et échanges avec d'autres entreprises.
-- 📢 Promotion & visibilité des programmes.
+-  Diffusion de formations de haute qualité.
+-  Collaboration et échanges avec d'autres entreprises.
+-  Promotion & visibilité des programmes.
 
 💡 *RAK's Technology agit également comme un amplificateur marketing pour les formations externes.*
 
-### 🎨 3. Branding & Identité Visuelle
+###  3. Branding & Identité Visuelle
 
 Nous aidons les entreprises à construire une **image forte et cohérente** indispensable dans le monde digital d'aujourd'hui :
 
-- 🎯 Création de logos marquants.
-- 🎨 Élaboration de palettes de couleurs stratégiques.
-- 🌐 Conception d'identités visuelles complètes.
-- 📱 Design moderne, ergonomique et impactant (UI/UX).
+-  Création de logos marquants.
+-  Élaboration de palettes de couleurs stratégiques.
+-  Conception d'identités visuelles complètes.
+-  Design moderne, ergonomique et impactant (UI/UX).
 
 ---
 
