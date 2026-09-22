@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 RAK's Technology  
+#  RAK's Technology  
 ### *Revolutionary Agile Koders*
 
 <p align="center">
@@ -72,20 +72,20 @@ Nous aidons les entreprises à construire une **image forte et cohérente** indi
 
 ---
 
-## 🧩 Notre Approche
+##  Notre Approche
 
-### 🎯 Focus Strategy
+###  Focus Strategy
 
 > **Une seule priorité à la fois = performance maximale**
 
-- 🚫 **Pas de dispersion :** Nous restons concentrés.
-- 🔥 **Concentration totale :** Un produit à la fois pour un maximum de valeur.
-- ⚡ **Développement rapide :** Méthodologie Agile.
-- 🏆 **Qualité supérieure :** Excellence technique garantie.
+-  **Pas de dispersion :** Nous restons concentrés.
+-  **Concentration totale :** Un produit à la fois pour un maximum de valeur.
+-  **Développement rapide :** Méthodologie Agile.
+-  **Qualité supérieure :** Excellence technique garantie.
 
 ---
 
-## 🏗️ Architecture de l’entreprise
+##  Architecture de l’entreprise
 
 ```mermaid
 graph TD;
@@ -96,27 +96,16 @@ graph TD;
 
 ---
 
-## 👥 Équipe
+##  Équipe
 
 Notre force réside dans notre diversité et notre expertise :
 
-* **🎨 Design & Création :** UX/UI Designers, Graphistes, Créateurs de contenu.
-* **💻 Tech Team :** Fullstack Developers, Frontend Engineers, Backend Engineers, AI / ML Enthusiasts.
+* ** Design & Création :** UX/UI Designers, Graphistes, Créateurs de contenu.
+* ** Tech Team :** Fullstack Developers, Frontend Engineers, Backend Engineers, AI / ML Enthusiasts.
 
 ---
 
-## 📊 Stats & Activité
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakstech237&show_icons=true&theme=central"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=rakstech237&theme=radical"/>
-</p>
-
----
-
-## 🚀 Roadmap
+##  Roadmap
 
 - [ ] **Structuration de la startup :** Consolidation des bases.
 - [ ] **Définition du modèle SaaS :** Étude de marché et validation.
@@ -126,20 +115,20 @@ Notre force réside dans notre diversité et notre expertise :
 
 ---
 
-## 🤝 Collaboration
+##  Collaboration
 
 Nous sommes toujours ouverts aux opportunités :
 
-- 🤝 **Partenariats stratégiques**
-- 🎓 **Collaboration avec des entreprises de formation**
-- 💼 **Investisseurs & mentors**
-- 💻 **Développeurs passionnés**
+-  **Partenariats stratégiques**
+-  **Collaboration avec des entreprises de formation**
+-  **Investisseurs & mentors**
+-  **Développeurs passionnés**
 
 ---
 
-## 📬 Contact & Support
+##  Contact & Support
 
-📧 **Email :** [shaidmasad10@gmail.com](mailto:shaidmasad10gmail.com)
+ **Email :** [shaidmasad10@gmail.com](mailto:shaidmasad10gmail.com)
 
 ---
 
